@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Math Game</string>
+    <string name="toolbar_name">Kimberly Math Game</string>
+    <string name="addition">ADDITION</string>
+    <string name="subtraction">SUBTRACTION</string>
+    <string name="multiplication">MULTIPLICATION</string>
+
+
+    <string name="score">Score</string>
+    <string name="life">Life</string>
+    <string name="time">Time</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="check">Check</string>
+    <string name="next_question">Next Question</string>
+
+
+    <string name="congratulations">Congratulations!</string>
+    <string name="score_20">Score: 20</string>
+    <string name="replay">Replay</string>
+    <string name="exit">Exit</string>
+
+    <string name="correct">Correct!</string>
+    <string name="wrong">Wrong!</string>
+    <string name="enter_answer">Please enter an answer.</string>
+    <string name="lose_game">Sorry, you have lose the game.</string>
+    <string name="check_first">You must check the answer first.</string>
+    <string name="time_out">Sorry! Time is up!</string>
+    <string name="your_score">Your score:</string>
+
+
+</resources>

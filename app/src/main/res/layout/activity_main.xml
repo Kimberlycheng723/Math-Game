@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_background"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/darkblue">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:title="@string/toolbar_name"
+            app:titleTextColor="@color/white" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <Button
+        android:id="@+id/buttonAdd"
+        android:layout_width="200dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="250dp"
+        android:backgroundTint="#E8F0F0"
+        android:text="@string/addition"
+        android:textColor="#100C0C" />
+
+    <Button
+        android:id="@+id/buttonSub"
+        android:layout_width="200dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="#E8F0F0"
+        android:text="@string/subtraction"
+        android:textColor="#100C0C" />
+
+    <Button
+        android:id="@+id/buttonMulti"
+        android:layout_width="200dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="#E8F0F0"
+        android:text="@string/multiplication"
+        android:textColor="#100C0C" />
+
+</LinearLayout>

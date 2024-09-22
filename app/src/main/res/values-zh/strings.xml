@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">数字游戏</string>
+    <string name="toolbar_name">数字游戏</string>
+    <string name="addition">加</string>
+    <string name="subtraction">减</string>
+    <string name="multiplication">乘</string>
+    <string name="score">分数</string>
+    <string name="life">生命</string>
+    <string name="time">时间</string>
+    <string name="your_answer">您的答案</string>
+    <string name="check">检查</string>
+    <string name="next_question">下一题</string>
+    <string name="congratulations">恭喜！</string>
+    <string name="score_20">分数：20</string>
+    <string name="replay">重玩</string>
+    <string name="exit">退出</string>
+    <string name="correct">正确！</string>
+    <string name="wrong">错误！</string>
+    <string name="enter_answer">请输入您的答案</string>
+    <string name="lose_game">游戏结束</string>
+    <string name="check_first">您需要先检查您的答案</string>
+    <string name="time_out">时间到！</string>
+    <string name="your_score">您的分数：</string>
+</resources>

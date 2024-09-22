@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matematik</string>
+    <string name="toolbar_name">Matematik</string>
+    <string name="addition">Tambah</string>
+    <string name="subtraction">Tolak</string>
+    <string name="multiplication">Darab</string>
+    <string name="score">Skor</string>
+    <string name="life">Nyawa</string>
+    <string name="time">Masa</string>
+    <string name="your_answer">Jawapan Anda</string>
+    <string name="check">Semak</string>
+    <string name="next_question">Soalan Seterusnya</string>
+    <string name="congratulations">Tahniah!</string>
+    <string name="score_20">Skor: 20</string>
+    <string name="replay">Main Semula</string>
+    <string name="exit">Keluar</string>
+    <string name="correct">Betul!</string>
+    <string name="wrong">Salah!</string>
+    <string name="enter_answer">Sila masukkan jawapan anda</string>
+    <string name="lose_game">Permainan Tamat</string>
+    <string name="check_first">Awak perlu semak jawapan dulu</string>
+    <string name="time_out">Masa sudah tamat!</string>
+    <string name="your_score">Skor anda：</string>
+</resources>
